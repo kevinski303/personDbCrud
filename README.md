@@ -1,3 +1,2 @@
-# simpleafpersondb
-Very simple af person database <br>
+# Simple as fuck person database
 prerequisites: apache, php, mysql
