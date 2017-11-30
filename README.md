@@ -1,2 +1,1 @@
-# Simple as fuck person database
-prerequisites: apache, php, mysql
+# Simple CRUD Person Database
